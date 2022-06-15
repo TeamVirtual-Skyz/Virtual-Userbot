@@ -1,6 +1,6 @@
-# PyroMan-Userbot Telegram
+# Virtual-Userbot 🇮🇩
 
-PyroMan-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.
+Virtual-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.
 
 Saya membuat repository ini untuk bersenang-senang sekaligus membantu anda mengelola grup secara efisien dan untuk membantu mengurangi kebosanan saat menggunakan telegram.
 
@@ -24,12 +24,13 @@ Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya
 
 ## 🏷 Support
 
-- Follow Channel [@Lunatic0de](https://t.me/Lunatic0de) untuk info Update bot 
-- Gabung Group [@SharingUserbot](https://t.me/SharingUserbot) untuk diskusi, pelaporan bug, dan bantuan tentang PyroMan-Userbot.
+- Follow Channel [@PrivateChattingan](https://t.me/PrivateChattingan) untuk info Update bot 
+- Gabung Group [@Grup_Cari_Teman_Virtual](https://t.me/Grup_Cari_Teman_Virtual) untuk diskusi, pelaporan bug, dan bantuan tentang Virtual-Userbot.
 
 ## 👨🏻‍💻 Credits
 -  [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
 -  [Risman](https://github.com/mrismanaziz) for [PyroMan-Userbot](https://github.com/mrismanaziz/PyroMan-Userbot)
+-  [Putra](https://github.com/TeamVirtual-Skyz) for [Virtual-Userbot](https://github.com/TeamVirtual-Skyz/Virtual-Userbot
 
 #### Special Thanks To [Everyone](https://github.com/mrismanaziz/PyroMan-Userbot/graphs/contributors) Who Has Helped Make This Userbot Awesome!
 -  [TeamDerUntergang](https://github.com/TeamDerUntergang/Telegram-SedenUserBot) : SedenUserBot
