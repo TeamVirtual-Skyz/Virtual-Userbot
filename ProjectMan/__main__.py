@@ -14,7 +14,7 @@ from ProjectMan import BOTLOG_CHATID, LOGGER, LOOP, bots
 from ProjectMan.helpers.misc import git, heroku
 
 MSG_ON = """
-🔥 **PyroMan-Userbot Berhasil Di Aktifkan**
+🧸 **Virtual-Userbot Sudah Aktif** 🧸
 ━━
 ➠ **Userbot Version -** `{}`
 ➠ **Ketik** `{}alive` **untuk Mengecheck Bot**
@@ -40,5 +40,5 @@ if __name__ == "__main__":
     LOGGER("ProjectMan").info(f"Total Clients = {len(bots)} Users")
     git()
     heroku()
-    LOGGER("ProjectMan").info(f"PyroMan-UserBot v{BOT_VER} [🔥 BERHASIL DIAKTIFKAN! 🔥]")
+    LOGGER("ProjectMan").info(f"PyroMan-UserBot v{BOT_VER} [🧸 BOT SUDAH AKTIF 🧸]")
     LOOP.run_until_complete(main())
