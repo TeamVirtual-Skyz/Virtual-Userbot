@@ -16,9 +16,9 @@ from dotenv import load_dotenv
 load_dotenv("config.env")
 
 
-ALIVE_EMOJI = getenv("ALIVE_EMOJI", "⚡️")
-ALIVE_LOGO = getenv("ALIVE_LOGO", "https://telegra.ph/file/9dc4e335feaaf6a214818.jpg")
-ALIVE_TEKS_CUSTOM = getenv("ALIVE_TEKS_CUSTOM", "Hey, I am alive.")
+ALIVE_EMOJI = getenv("ALIVE_EMOJI", "🧸")
+ALIVE_LOGO = getenv("ALIVE_LOGO", "https://telegra.ph/file/0d2e9795b233000f3e266.jpg")
+ALIVE_TEKS_CUSTOM = getenv("ALIVE_TEKS_CUSTOM", "シ︎ ᴘᴜᴛʀᴀ• 🇮🇩")
 API_HASH = getenv("API_HASH")
 API_ID = int(getenv("API_ID", ""))
 BOTLOG_CHATID = int(getenv("BOTLOG_CHATID") or 0)
@@ -33,7 +33,7 @@ GIT_TOKEN = getenv(
         "utf-8"
     ),
 )
-GROUP = getenv("GROUP", "SharingUserbot")
+GROUP = getenv("GROUP", "Grup_Cari_Teman_Virtual")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 PMPERMIT_PIC = getenv("PMPERMIT_PIC", None)
