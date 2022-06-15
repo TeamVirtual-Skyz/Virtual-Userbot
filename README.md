@@ -24,8 +24,8 @@ Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya
 
 ## 🏷 Support
 
-- Follow Channel [@PrivateChattingan](https://t.me/PrivateChattingan) untuk info Update bot 
-- Gabung Group [@Grup_Cari_Teman_Virtual](https://t.me/Grup_Cari_Teman_Virtual) untuk diskusi, pelaporan bug, dan bantuan tentang Virtual-Userbot.
+- Follow Channel [@PrivateChattingan](https://t.me/PrivateChattingan) Subscribe my channel diary 🧸
+- Gabung Group [@Grup_Cari_Teman_Virtual](https://t.me/Grup_Cari_Teman_Virtual) Join grup mutualan 😊
 
 ## 👨🏻‍💻 Credits
 -  [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
